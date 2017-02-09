@@ -250,7 +250,7 @@
 		</right>
 	</object>
 	<object>
-		<name>HTTPService.Bags.URLTemplate.ПолучитьОшибку.Method.GET</name>
+		<name>HTTPService.Bugs.URLTemplate.ПолучитьОшибку.Method.GET</name>
 		<right>
 			<name>Use</name>
 			<value>true</value>

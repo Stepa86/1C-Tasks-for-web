@@ -280,32 +280,7 @@
 					<xr:ChoiceParameters/>
 				</xr:StandardAttribute>
 			</StandardAttributes>
-			<Characteristics>
-				<xr:Characteristic>
-					<xr:CharacteristicTypes from="">
-						<xr:KeyField>0:bd55fd03-cf67-4333-a554-98e03d18f780</xr:KeyField>
-						<xr:TypesFilterField>-8</xr:TypesFilterField>
-						<xr:TypesFilterValue xsi:type="xr:DesignTimeRef">7a576bbd-3683-4c69-8259-b03d2c59db04.bc8a24c2-66df-4bc6-903a-edeed055229b</xr:TypesFilterValue>
-					</xr:CharacteristicTypes>
-					<xr:CharacteristicValues from="">
-						<xr:ObjectField>-8</xr:ObjectField>
-						<xr:TypeField>0:4760d262-c6cf-4ac2-a979-3901f547f3a9</xr:TypeField>
-						<xr:ValueField>0:5c1bfaee-2637-4aa8-95f9-0f6c3913419c</xr:ValueField>
-					</xr:CharacteristicValues>
-				</xr:Characteristic>
-				<xr:Characteristic>
-					<xr:CharacteristicTypes from="">
-						<xr:KeyField>0:00949768-5833-4fe2-8752-b009d1bceef8</xr:KeyField>
-						<xr:TypesFilterField>-8</xr:TypesFilterField>
-						<xr:TypesFilterValue xsi:type="xr:DesignTimeRef">7a576bbd-3683-4c69-8259-b03d2c59db04.bc8a24c2-66df-4bc6-903a-edeed055229b</xr:TypesFilterValue>
-					</xr:CharacteristicTypes>
-					<xr:CharacteristicValues from="">
-						<xr:ObjectField>0:cb954476-c551-4a06-9bcd-18d67ba47dc8</xr:ObjectField>
-						<xr:TypeField>0:79201015-bfae-463e-81f1-0ae2d3066f3f</xr:TypeField>
-						<xr:ValueField>0:ab7ef662-71c1-4d51-9f0f-ea8c5ea3df8a</xr:ValueField>
-					</xr:CharacteristicValues>
-				</xr:Characteristic>
-			</Characteristics>
+			<Characteristics/>
 			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
 			<EditType>InDialog</EditType>
 			<QuickChoice>false</QuickChoice>

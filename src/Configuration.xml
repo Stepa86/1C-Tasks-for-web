@@ -125,7 +125,7 @@
 			<Language>Русский</Language>
 			<Role>ПолныеПрава</Role>
 			<HTTPService>Tasks</HTTPService>
-			<HTTPService>Bags</HTTPService>
+			<HTTPService>Bugs</HTTPService>
 			<Constant>_АдресПубликацииИнформационнойБазы</Constant>
 			<Catalog>_Задачи</Catalog>
 			<Catalog>_Ошибки</Catalog>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
 	<ConfigVersions>
-		<Metadata name="Catalog._Задачи" id="a40e2e1b-6975-4309-b629-3b3794bcc0a7" configVersion="801871968446ac478948f9bd0793c69700000000">
+		<Metadata name="Catalog._Задачи" id="a40e2e1b-6975-4309-b629-3b3794bcc0a7" configVersion="1a830ceab778ab4b9a4a4050adfca41b00000000">
 			<Metadata name="Catalog._Задачи.Attribute.ДатаИзменения" id="08940c92-3618-4413-8d2f-10bb1d0755c2"/>
 			<Metadata name="Catalog._Задачи.Attribute.Состояние" id="0aff9ad9-f956-4a71-87d3-9e12977e6703"/>
 			<Metadata name="Catalog._Задачи.Attribute.Инициатор" id="1d078bf5-7d42-4fcd-a84c-cde5af94c3ed"/>
@@ -38,16 +38,16 @@
 		<Metadata name="DataProcessor.УстановитьАдресБазы" id="205bb4c5-adae-4dfb-961d-1e78d28b96d6" configVersion="e3321faf37f5a8409b424ae66828f9be00000000"/>
 		<Metadata name="DataProcessor.УстановитьАдресБазы.Form.Форма" id="4f0c9bdb-e498-4b8b-83b3-4fc5f19f0933" configVersion="9df47bbc905d4b4f8dd5756824c7d1d000000000"/>
 		<Metadata name="DataProcessor.УстановитьАдресБазы.Form.Форма.Form" id="4f0c9bdb-e498-4b8b-83b3-4fc5f19f0933.0" configVersion="0c8da441fd865f4a82bd8480571bd29b00000000"/>
-		<Metadata name="HTTPService.Bags" id="93ef9667-9f3b-4b65-bff5-91903db6a3d3" configVersion="8e75f013b11d1647aad41cf56f43bc4500000000">
-			<Metadata name="HTTPService.Bags.URLTemplate.ПолучитьОшибку" id="4af933f7-7c83-42cd-b671-58af286dbe0d"/>
-			<Metadata name="HTTPService.Bags.URLTemplate.ПолучитьОшибку.Method.GET" id="cbc7ac93-2fbf-434f-a147-69b2ef72212d"/>
+		<Metadata name="HTTPService.Bugs" id="93ef9667-9f3b-4b65-bff5-91903db6a3d3" configVersion="7e35cd327e193a4d999e95c1bad1aa5100000000">
+			<Metadata name="HTTPService.Bugs.URLTemplate.ПолучитьОшибку" id="4af933f7-7c83-42cd-b671-58af286dbe0d"/>
+			<Metadata name="HTTPService.Bugs.URLTemplate.ПолучитьОшибку.Method.GET" id="cbc7ac93-2fbf-434f-a147-69b2ef72212d"/>
 		</Metadata>
-		<Metadata name="HTTPService.Bags.Module" id="93ef9667-9f3b-4b65-bff5-91903db6a3d3.0" configVersion="a58059aa200ca845898f609b01d5287500000000"/>
-		<Metadata name="HTTPService.Tasks" id="7ba9164f-7f25-4a8d-b7c6-2bd50bb86618" configVersion="f370b8baf0dd1246b75b1a5a1b4b84a200000000">
+		<Metadata name="HTTPService.Bugs.Module" id="93ef9667-9f3b-4b65-bff5-91903db6a3d3.0" configVersion="a58059aa200ca845898f609b01d5287500000000"/>
+		<Metadata name="HTTPService.Tasks" id="7ba9164f-7f25-4a8d-b7c6-2bd50bb86618" configVersion="0b4c772ac1d32e478fd7743ee840b1d200000000">
 			<Metadata name="HTTPService.Tasks.URLTemplate.ПолучитьЗадачу" id="6a5008c4-a989-490d-8a5b-481f867dff5a"/>
 			<Metadata name="HTTPService.Tasks.URLTemplate.ПолучитьЗадачу.Method.GET" id="74e18771-fbcf-4202-89d0-66112ea1e73d"/>
 		</Metadata>
-		<Metadata name="HTTPService.Tasks.Module" id="7ba9164f-7f25-4a8d-b7c6-2bd50bb86618.0" configVersion="5947cf7aef934844946bf2d6c9df687000000000"/>
+		<Metadata name="HTTPService.Tasks.Module" id="7ba9164f-7f25-4a8d-b7c6-2bd50bb86618.0" configVersion="c7006bab4df1574d8b5c9d35416c301d00000000"/>
 		<Metadata name="Language.Русский" id="40283323-65fa-422d-9d84-43e911fc3d1b" configVersion="f2315e1e1b949843b04da7897bc9176800000000"/>
 		<Metadata name="Role.ПолныеПрава" id="a8df81d8-c7cd-42ce-ba4e-207486c913bc" configVersion="da11feab4a0ef5478c7ddc0d67e443dd00000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="a8df81d8-c7cd-42ce-ba4e-207486c913bc.0" configVersion="23267bd14ac63b4ba91eb6e39007984300000000"/>
